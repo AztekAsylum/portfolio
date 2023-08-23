@@ -10,5 +10,6 @@ This is a portfolio showcaseing my ablity to build a website from scratch with s
 <img width="801" alt="Screenshot 2023-08-22 at 9 44 06 AM" src="https://github.com/AztekAsylum/portfolio/assets/142047271/cba5e4e4-7f23-4ee5-b447-b8e58df9d805">
 
 #Link to deployed app
+https://aztekasylum.github.io/portfolio/ 
 
 
